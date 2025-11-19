@@ -1,17 +1,32 @@
-<h2 align="left">Hi 👋! My name is Ayesha noor and I'm a Passionate Frontend Developer, from Karachi, Pakistan.</h2>
+
+###
+<h1 align="center">hey there 👋</h1>
+
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<div align="center">
+<p align="left">I'm <b>Ayesha noor</b> from Karachi , Pakistan. <br><br>- 🔭 I’m working as a Passionate <b> Frontend Developer</b> . <br>- 📚 I'm currently learning <b>Mern Stack development</b>. <br>- ⚡ In my free time , I  focus on improving my skills through practice and exploration.</p>
+
+###
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### -->
+
+<!-- <img align="right" src="https://i.pinimg.com/736x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" width="250px" height="200px" /> -->
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ###
 
-<img align="right" src="https://www.pinterest.com/pin/366058275986389769/" width="250px" />
 
-###
+<h2 align="left">I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,6 +46,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -44,6 +60,9 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 
 
